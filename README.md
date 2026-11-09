@@ -1,8 +1,8 @@
 # sniper-game
-im making this game because a game on roblox that i liked got a bad update and now its dead
+I'm making this game because a game on Roblox that I liked got a bad update, and now it's dead.
 
-you need ursina
+You need Ursina.
 
-IF YOU SEE BUGS THIS IS A W.I.P
+IF YOU SEE BUGS, THIS IS A W.I.P.
 
-im new to this
+I'm new to this.
