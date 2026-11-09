@@ -1,0 +1,9 @@
+{
+    "fov": 90,
+    "sensitivity": 800,
+    "resolution_index": 2,
+    "fullscreen": false,
+    "draw_index": 3,
+    "crosshair_index": 1,
+    "show_fps": true
+}
